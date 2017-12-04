@@ -1,0 +1,3 @@
+[submodule "ext/hlpipes"]
+	path = ext/hlpipes
+	url = https://github.com/f4bsch/hlpipes.git

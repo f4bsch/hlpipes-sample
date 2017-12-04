@@ -1,0 +1,5 @@
+/.idea/
+/CMakeFiles/
+/build*
+/cmake-build*
+/hl-pipelines/h/
